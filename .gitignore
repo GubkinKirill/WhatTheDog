@@ -1,0 +1,6 @@
+venv/
+data/
+models/
+.env/
+__pychache__/
+*.pth
